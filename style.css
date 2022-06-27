@@ -139,8 +139,9 @@ color:white
 }
 
 .footer {
-    position: relative;
-    margin-top: 24px;
+    position: absolute;
+    left: 430px;
+    bottom:1px;
     text-align: center;
     color: rgb(3, 2, 2);
 }
