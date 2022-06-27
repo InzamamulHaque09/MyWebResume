@@ -71,6 +71,9 @@
     margin-top: 150px;
     margin-left: 20px;
 }
+.certificates a:hover{
+color:white
+}
 .tenth {
 
     margin-top: 10px;
